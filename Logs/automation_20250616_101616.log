@@ -1,0 +1,12 @@
+06/16/2025 10:16:16 AM - INFO - ====== WebDriver manager ======
+06/16/2025 10:16:17 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 10:16:17 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 10:16:17 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 10:16:18 AM - INFO - WebDriver version 137.0.7151.70 selected
+06/16/2025 10:16:18 AM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+06/16/2025 10:16:18 AM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+06/16/2025 10:16:18 AM - INFO - Driver downloading response is 200
+06/16/2025 10:16:18 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 10:16:19 AM - INFO - Driver has been saved in cache [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70]
+06/16/2025 10:16:21 AM - INFO - ******* Setting Up Test *******
+06/16/2025 10:16:33 AM - ERROR - Login failed!

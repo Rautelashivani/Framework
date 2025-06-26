@@ -1,0 +1,10 @@
+06/23/2025 02:49:48 PM - INFO - xdist worker is: gw0
+06/23/2025 02:49:48 PM - INFO - ====== WebDriver manager ======
+06/23/2025 02:49:49 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 02:49:49 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 02:49:49 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\gw0\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+06/23/2025 02:49:51 PM - INFO - ******* Setting Up Test *******
+06/23/2025 02:49:55 PM - INFO - ******* Test_Base *******
+06/23/2025 02:49:55 PM - INFO - ===== Starting Password change not allows same password Test =====
+06/23/2025 02:49:58 PM - INFO - Clicked Profile tab
+06/23/2025 02:50:10 PM - INFO - ******* Tearing Down Test *******

@@ -1,0 +1,13 @@
+06/16/2025 03:15:07 PM - INFO - ====== WebDriver manager ======
+06/16/2025 03:15:08 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 03:15:08 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 03:15:08 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/16/2025 03:15:10 PM - INFO - ******* Test_Base *******
+06/16/2025 03:15:10 PM - INFO - ====opening the browser =====
+06/16/2025 03:15:11 PM - INFO - ===== Starting Signup process =====
+06/16/2025 03:15:12 PM - INFO - Clicked On signup
+06/16/2025 03:15:12 PM - INFO - enter the first name
+06/16/2025 03:15:12 PM - INFO - enter the last name
+06/16/2025 03:15:12 PM - INFO - enter the company name
+06/16/2025 03:15:12 PM - INFO - enter the email address
+06/16/2025 03:15:12 PM - INFO - enter the password

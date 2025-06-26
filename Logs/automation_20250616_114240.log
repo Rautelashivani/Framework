@@ -1,0 +1,16 @@
+06/16/2025 11:42:40 AM - INFO - ====== WebDriver manager ======
+06/16/2025 11:42:41 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 11:42:41 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 11:42:41 AM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/16/2025 11:42:42 AM - INFO - ******* Test_Base *******
+06/16/2025 11:42:42 AM - INFO - ===== Starting login with wrong credentials =====
+06/16/2025 11:42:44 AM - INFO - ===== Attempt 1 with wrong credentials =====
+06/16/2025 11:42:46 AM - INFO - Attempt 1 completed
+06/16/2025 11:42:46 AM - INFO - ===== Attempt 2 with wrong credentials =====
+06/16/2025 11:42:50 AM - INFO - Attempt 2 completed
+06/16/2025 11:42:50 AM - INFO - ===== Attempt 3 with wrong credentials =====
+06/16/2025 11:42:53 AM - INFO - Attempt 3 completed
+06/16/2025 11:42:53 AM - INFO - ===== Attempt 4 with wrong credentials =====
+06/16/2025 11:42:57 AM - INFO - Attempt 4 completed
+06/16/2025 11:42:57 AM - INFO - ===== Attempt 5 with wrong credentials =====
+06/16/2025 11:43:00 AM - INFO - Attempt 5 completed

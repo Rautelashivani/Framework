@@ -1,0 +1,11 @@
+06/16/2025 06:14:10 PM - INFO - ====== WebDriver manager ======
+06/16/2025 06:14:11 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 06:14:12 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/16/2025 06:14:12 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/16/2025 06:14:13 PM - INFO - ******* Setting Up Test *******
+06/16/2025 06:14:16 PM - INFO - ******* Test_Base *******
+06/16/2025 06:14:16 PM - INFO - ===== Starting Empaneled Search Test =====
+06/16/2025 06:14:17 PM - INFO - Clicked Partner tab
+06/16/2025 06:14:18 PM - INFO - Clicked Empaneled tab
+06/16/2025 06:14:19 PM - INFO - Entered search text: IBM
+06/16/2025 06:14:20 PM - INFO - ******* Tearing Down Test *******

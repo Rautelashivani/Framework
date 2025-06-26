@@ -1,0 +1,32 @@
+06/23/2025 01:31:19 PM - INFO - xdist worker is: gw0
+06/23/2025 01:31:19 PM - INFO - ====== WebDriver manager ======
+06/23/2025 01:31:19 PM - INFO - ====== WebDriver manager ======
+06/23/2025 01:31:20 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:20 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:21 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:21 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:21 PM - INFO - There is no [win64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+06/23/2025 01:31:21 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:21 PM - INFO - There is no [win64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+06/23/2025 01:31:21 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:21 PM - INFO - WebDriver version 137.0.7151.119 selected
+06/23/2025 01:31:21 PM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+06/23/2025 01:31:21 PM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+06/23/2025 01:31:21 PM - INFO - WebDriver version 137.0.7151.119 selected
+06/23/2025 01:31:21 PM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+06/23/2025 01:31:21 PM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+06/23/2025 01:31:21 PM - INFO - Driver downloading response is 200
+06/23/2025 01:31:21 PM - INFO - Driver downloading response is 200
+06/23/2025 01:31:22 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:22 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/23/2025 01:31:25 PM - INFO - Driver has been saved in cache [C:\Users\Fleek IT\.wdm\gw0\drivers\chromedriver\win64\137.0.7151.119]
+06/23/2025 01:31:25 PM - INFO - Driver has been saved in cache [C:\Users\Fleek IT\.wdm\gw1\drivers\chromedriver\win64\137.0.7151.119]
+06/23/2025 01:31:27 PM - INFO - ******* Setting Up Test *******
+06/23/2025 01:31:27 PM - INFO - ******* Setting Up Test *******
+06/23/2025 01:31:31 PM - INFO - ******* Test_Base *******
+06/23/2025 01:31:31 PM - INFO - ===== Starting Password change not allows same password Test =====
+06/23/2025 01:31:31 PM - INFO - ******* Test_Base *******
+06/23/2025 01:31:31 PM - INFO - ===== Starting sending empaneled request =====
+06/23/2025 01:31:34 PM - INFO - Clicked Profile tab
+06/23/2025 01:31:47 PM - INFO - ******* Tearing Down Test *******
+06/23/2025 01:31:54 PM - INFO - ******* Tearing Down Test *******

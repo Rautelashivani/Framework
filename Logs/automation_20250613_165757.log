@@ -1,0 +1,11 @@
+06/13/2025 04:57:57 PM - INFO - ====== WebDriver manager ======
+06/13/2025 04:57:58 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/13/2025 04:57:58 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/13/2025 04:57:58 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/13/2025 04:58:00 PM - INFO - ******* Setting Up Test *******
+06/13/2025 04:58:02 PM - INFO - ******* Test_Base *******
+06/13/2025 04:58:02 PM - INFO - ===== Starting Tech Stack Search Test =====
+06/13/2025 04:58:03 PM - INFO - Clicked Bench tab
+06/13/2025 04:58:05 PM - INFO - Clicked Tech Stack button
+06/13/2025 04:58:06 PM - INFO - Entered search text: JIRA
+06/13/2025 04:58:07 PM - INFO - ******* Tearing Down Test *******

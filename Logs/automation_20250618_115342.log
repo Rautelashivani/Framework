@@ -1,0 +1,15 @@
+06/18/2025 11:53:42 AM - INFO - ====== WebDriver manager ======
+06/18/2025 11:53:43 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/18/2025 11:53:43 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/18/2025 11:53:43 AM - INFO - There is no [win64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+06/18/2025 11:53:43 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/18/2025 11:53:44 AM - INFO - WebDriver version 137.0.7151.119 selected
+06/18/2025 11:53:44 AM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+06/18/2025 11:53:44 AM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+06/18/2025 11:53:44 AM - INFO - Driver downloading response is 200
+06/18/2025 11:53:45 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/18/2025 11:53:46 AM - INFO - Driver has been saved in cache [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+06/18/2025 11:53:47 AM - INFO - ******* Setting Up Test *******
+06/18/2025 11:53:51 AM - INFO - ******* Test_Base *******
+06/18/2025 11:53:51 AM - INFO - ===== Starting sending empaneled request =====
+06/18/2025 11:54:07 AM - INFO - ******* Tearing Down Test *******

@@ -1,0 +1,39 @@
+06/12/2025 03:43:55 PM - INFO - ====== WebDriver manager ======
+06/12/2025 03:43:57 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/12/2025 03:43:58 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/12/2025 03:43:58 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/12/2025 03:44:00 PM - INFO - ******* Test_Base *******
+06/12/2025 03:44:00 PM - INFO - ******* Opening Browser *******
+06/12/2025 03:44:10 PM - INFO - ******* Login *******
+06/12/2025 03:44:12 PM - INFO - ******* Logout *******
+06/12/2025 03:44:12 PM - INFO - ******* Test_Base *******
+06/12/2025 03:44:12 PM - INFO - ******* Opening Browser *******
+06/12/2025 03:44:13 PM - INFO - ******* Login *******
+06/12/2025 03:44:15 PM - INFO - ******* Logout *******
+06/12/2025 03:44:15 PM - INFO - ===== Starting Tech Stack Search Test =====
+06/12/2025 03:44:25 PM - ERROR - Test failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe03783+63299]
+	GetHandleVerifier [0x0xe037c4+63364]
+	(No symbol) [0x0xc31113]
+	(No symbol) [0x0xc7987e]
+	(No symbol) [0x0xc79c1b]
+	(No symbol) [0x0xcc2212]
+	(No symbol) [0x0xc9e5c4]
+	(No symbol) [0x0xcbfa4a]
+	(No symbol) [0x0xc9e376]
+	(No symbol) [0x0xc6d6e0]
+	(No symbol) [0x0xc6e544]
+	GetHandleVerifier [0x0x105e073+2531379]
+	GetHandleVerifier [0x0x1059372+2511666]
+	GetHandleVerifier [0x0xe29efa+220858]
+	GetHandleVerifier [0x0xe1a548+156936]
+	GetHandleVerifier [0x0xe20c7d+183357]
+	GetHandleVerifier [0x0xe0b6e8+95912]
+	GetHandleVerifier [0x0xe0b890+96336]
+	GetHandleVerifier [0x0xdf666a+9770]
+	BaseThreadInitThunk [0x0x75785d49+25]
+	RtlInitializeExceptionChain [0x0x77aed03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77aecfc1+561]
+
+06/12/2025 03:44:25 PM - INFO - ===== Test Completed =====

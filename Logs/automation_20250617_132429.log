@@ -1,0 +1,9 @@
+06/17/2025 01:24:29 PM - INFO - ====== WebDriver manager ======
+06/17/2025 01:24:30 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/17/2025 01:24:30 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/17/2025 01:24:30 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/17/2025 01:24:32 PM - INFO - ******* Setting Up Test *******
+06/17/2025 01:24:34 PM - INFO - ******* Test_Base *******
+06/17/2025 01:24:34 PM - INFO - ===== Starting Member delete icon Test =====
+06/17/2025 01:24:35 PM - INFO - Clicked Member tab
+06/17/2025 01:24:38 PM - INFO - ******* Tearing Down Test *******

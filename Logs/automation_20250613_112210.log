@@ -1,0 +1,8 @@
+06/13/2025 11:22:10 AM - INFO - ====== WebDriver manager ======
+06/13/2025 11:22:10 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/13/2025 11:22:11 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/13/2025 11:22:11 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/13/2025 11:22:13 AM - INFO - WebDriver version 137.0.7151.70 selected
+06/13/2025 11:22:13 AM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+06/13/2025 11:22:13 AM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+06/13/2025 11:22:14 AM - INFO - Driver downloading response is 200

@@ -1,0 +1,11 @@
+06/17/2025 10:51:44 AM - INFO - ====== WebDriver manager ======
+06/17/2025 10:51:45 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/17/2025 10:51:46 AM - INFO - Get LATEST chromedriver version for google-chrome
+06/17/2025 10:51:46 AM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+06/17/2025 10:51:47 AM - INFO - ******* Setting Up Test *******
+06/17/2025 10:51:50 AM - INFO - ******* Test_Base *******
+06/17/2025 10:51:50 AM - INFO - ===== Starting Requirement Search Test =====
+06/17/2025 10:51:51 AM - INFO - Clicked Requirement tab
+06/17/2025 10:51:54 AM - INFO - Clicked Requirement tab
+06/17/2025 10:51:55 AM - INFO - Entered search text: PRIYA SHARMA
+06/17/2025 10:51:58 AM - INFO - ******* Tearing Down Test *******

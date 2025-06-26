@@ -1,0 +1,9 @@
+06/18/2025 04:05:28 PM - INFO - ====== WebDriver manager ======
+06/18/2025 04:05:29 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/18/2025 04:05:29 PM - INFO - Get LATEST chromedriver version for google-chrome
+06/18/2025 04:05:29 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+06/18/2025 04:05:31 PM - INFO - ******* Setting Up Test *******
+06/18/2025 04:05:35 PM - INFO - ******* Test_Base *******
+06/18/2025 04:05:35 PM - INFO - ===== Starting Password change not allows same password Test =====
+06/18/2025 04:05:36 PM - INFO - Clicked Profile tab
+06/18/2025 04:05:47 PM - INFO - ******* Tearing Down Test *******
