@@ -29,13 +29,13 @@ class Test_VBMPSB(Test_Base):
             self.logger.info("Clicked on Matching Positions")
 
             time.sleep(1)
-            search_text = "QA Engineer"
+            search_text = "Java Developer"
             bench_page.type_matching_search(search_text)
             self.logger.info(f"Entered search text: {search_text}")
             time.sleep(1)
 
             actual_text = bench_page.get_matching_result()
-            if actual_text == "QA Engineer":
+            if actual_text == "Java Developer":
                     print("Search bar is working")
             else:
                     print("Search bar is NOT working")

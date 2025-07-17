@@ -16,7 +16,7 @@ class BenchPage:
         jira_result = (By.XPATH, "//th[normalize-space()='JIRA']")
         matching_positions = (By.XPATH, "//tbody/tr[1]/th[2]/div[1]/div[1]/div[1]/div[2]")
         matching_search = (By.XPATH, "//input[@placeholder=\"Search\"]")
-        matching_result = (By.XPATH, "(//div[normalize-space()='QA Engineer'])[1]")
+        matching_result = (By.XPATH, "(//div[normalize-space()='Java Developer'])[1]")
         cancel_button = (By.CSS_SELECTOR, "div[class='px-8 flex'] svg")
 
         # Page methods

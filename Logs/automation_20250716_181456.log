@@ -1,0 +1,8 @@
+07/16/2025 06:14:56 PM - INFO - ====== WebDriver manager ======
+07/16/2025 06:14:57 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 06:14:57 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 06:14:57 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+07/16/2025 06:14:58 PM - INFO - ******* Setting Up Test *******
+07/16/2025 06:15:01 PM - INFO - ******* Test_Base *******
+07/16/2025 06:15:01 PM - INFO - ===== Starting Total number of positions Test =====
+07/16/2025 06:15:08 PM - INFO - ******* Tearing Down Test *******

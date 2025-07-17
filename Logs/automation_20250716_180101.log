@@ -1,0 +1,41 @@
+07/16/2025 06:01:01 PM - INFO - ====== WebDriver manager ======
+07/16/2025 06:01:02 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 06:01:02 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 06:01:02 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+07/16/2025 06:01:04 PM - INFO - ******* Setting Up Test *******
+07/16/2025 06:01:07 PM - INFO - ******* Test_Base *******
+07/16/2025 06:01:07 PM - INFO - ===== Starting Bench Matching Positions Search Test =====
+07/16/2025 06:01:08 PM - INFO - Clicked Bench tab
+07/16/2025 06:01:09 PM - INFO - Clicked on Matching Positions
+07/16/2025 06:01:11 PM - INFO - Entered search text: Java Developer
+07/16/2025 06:01:22 PM - INFO - ******* Tearing Down Test *******
+07/16/2025 06:01:23 PM - WARNING - Teardown warning: Message: element click intercepted: Element <div class="text-info flex items-center justify-end text-indigo-500 cursor-pointer px-2 hover:text-indigo-700">...</div> is not clickable at point (90, 518). Other element would receive the click: <div aria-hidden="true" class="MuiBackdrop-root MuiModal-backdrop css-14dl35y" style="opacity: 1; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1);"></div>
+  (Session info: chrome=138.0.7204.101)
+Stacktrace:
+	GetHandleVerifier [0x0xc01a33+62339]
+	GetHandleVerifier [0x0xc01a74+62404]
+	(No symbol) [0x0xa42123]
+	(No symbol) [0x0xa90bb0]
+	(No symbol) [0x0xa8ef6a]
+	(No symbol) [0x0xa8cac7]
+	(No symbol) [0x0xa8bd7d]
+	(No symbol) [0x0xa80515]
+	(No symbol) [0x0xaaf3bc]
+	(No symbol) [0x0xa7ffa4]
+	(No symbol) [0x0xaaf634]
+	(No symbol) [0x0xad07a3]
+	(No symbol) [0x0xaaf1b6]
+	(No symbol) [0x0xa7e7a2]
+	(No symbol) [0x0xa7f644]
+	GetHandleVerifier [0x0xe765c3+2637587]
+	GetHandleVerifier [0x0xe719ca+2618138]
+	GetHandleVerifier [0x0xc284aa+220666]
+	GetHandleVerifier [0x0xc188d8+156200]
+	GetHandleVerifier [0x0xc1f06d+182717]
+	GetHandleVerifier [0x0xc09978+94920]
+	GetHandleVerifier [0x0xc09b02+95314]
+	GetHandleVerifier [0x0xbf4c4a+9626]
+	BaseThreadInitThunk [0x0x75375d49+25]
+	RtlInitializeExceptionChain [0x0x7795d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d021+561]
+

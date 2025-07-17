@@ -1,0 +1,33 @@
+07/16/2025 04:24:04 PM - INFO - ====== WebDriver manager ======
+07/16/2025 04:24:05 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 04:24:05 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 04:24:05 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+07/16/2025 04:24:07 PM - INFO - ******* Setting Up Test *******
+07/16/2025 04:24:10 PM - INFO - ******* Test_Base *******
+07/16/2025 04:24:10 PM - INFO - ===== Starting Bench Matching Positions Search Test =====
+07/16/2025 04:24:18 PM - INFO - ******* Tearing Down Test *******
+07/16/2025 04:24:18 PM - WARNING - Teardown warning: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.101)
+Stacktrace:
+	GetHandleVerifier [0x0x1211a33+62339]
+	GetHandleVerifier [0x0x1211a74+62404]
+	(No symbol) [0x0x1052123]
+	(No symbol) [0x0x1030fc9]
+	(No symbol) [0x0x10c5aee]
+	(No symbol) [0x0x10e0089]
+	(No symbol) [0x0x10bf1b6]
+	(No symbol) [0x0x108e7a2]
+	(No symbol) [0x0x108f644]
+	GetHandleVerifier [0x0x14865c3+2637587]
+	GetHandleVerifier [0x0x14819ca+2618138]
+	GetHandleVerifier [0x0x12384aa+220666]
+	GetHandleVerifier [0x0x12288d8+156200]
+	GetHandleVerifier [0x0x122f06d+182717]
+	GetHandleVerifier [0x0x1219978+94920]
+	GetHandleVerifier [0x0x1219b02+95314]
+	GetHandleVerifier [0x0x1204c4a+9626]
+	BaseThreadInitThunk [0x0x75375d49+25]
+	RtlInitializeExceptionChain [0x0x7795d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d021+561]
+

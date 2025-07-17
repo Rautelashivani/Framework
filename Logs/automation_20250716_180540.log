@@ -1,0 +1,11 @@
+07/16/2025 06:05:40 PM - INFO - ====== WebDriver manager ======
+07/16/2025 06:05:41 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 06:05:41 PM - INFO - Get LATEST chromedriver version for google-chrome
+07/16/2025 06:05:41 PM - INFO - Driver [C:\Users\Fleek IT\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+07/16/2025 06:05:43 PM - INFO - ******* Setting Up Test *******
+07/16/2025 06:05:46 PM - INFO - ******* Test_Base *******
+07/16/2025 06:05:46 PM - INFO - ===== Starting Bench Matching Positions Search Test =====
+07/16/2025 06:05:47 PM - INFO - Clicked Bench tab
+07/16/2025 06:05:48 PM - INFO - Clicked on Matching Positions
+07/16/2025 06:05:49 PM - INFO - Entered search text: Java Developer
+07/16/2025 06:05:54 PM - INFO - ******* Tearing Down Test *******
